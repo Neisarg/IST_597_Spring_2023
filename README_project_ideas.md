@@ -1,4 +1,4 @@
-# Project Ideas
+## Project Ideas
 
 Remember when picking a project make sure there is enough data; usually a sample count of >100k is good enough for deep learning projects. 
 
@@ -10,7 +10,7 @@ Remember when picking a project make sure there is enough data; usually a sample
 - **Summarization** - [https://github.com/allenai/scitldr](https://github.com/allenai/scitldr) ; [https://paperswithcode.com/datasets?q=summarization&v=lst&o=match](https://paperswithcode.com/datasets?q=summarization&v=lst&o=match) ; [https://huggingface.co/datasets?task_categories=task_categories:summarization&sort=downloads](https://huggingface.co/datasets?task_categories=task_categories:summarization&sort=downloads)
 - Find more datasets here - [https://huggingface.co/datasets](https://huggingface.co/datasets)
 
-Some suggestions for the students - 
+## Some suggestions for the students - 
 
 1. For the course please start with an existing dataset. DO NOT TRY TO BUILD A DATASET. We respect your passion but one semester is not enough for building a good dataset and experimenting comprehensively on it. We would like you to focus on methods and implementation in this course.
 2. **GPU Resources;** Most probably you will need a GPU for your project. Remember deep learning is an empirical study so iterating again and again is a part of the “science”. This means you will have to run multiple experiments with different parameters and keep a track of them (see - [https://wandb.ai/site/pricing](https://wandb.ai/site/pricing)). Try running your model on Google Collab with less parameters. 
